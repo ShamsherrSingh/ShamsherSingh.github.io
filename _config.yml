@@ -23,11 +23,11 @@ repository               : "ShamsherrSingh/ShamsherrSingh.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Shamsher Singh"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "New York"
-  employer         : "Georgia Tech University"
+  employer         : ""
   uri              : # URL
   email            : "Singh.Sham1994@gmail.com" 
 
