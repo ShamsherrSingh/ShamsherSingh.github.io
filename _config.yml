@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Shamsher Singh"
 title_separator          : "-"
 name                     : &name "Shamsher Singh"
 description              : &description "personal description"
@@ -26,10 +26,10 @@ author:
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "New York"
   employer         : "Georgia Tech University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "Singh.Sham1994@gmail.com" 
 
   # Academic websites
   academia         : # URL
